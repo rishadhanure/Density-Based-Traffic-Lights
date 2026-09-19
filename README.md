@@ -117,18 +117,6 @@ This gave me practical experience in **embedded C debugging, sensor interfacing,
 
 ---
 
-## Project Images
-
-### Proteus Simulation
-
-![Proteus Circuit](images/proteus-circuit.png)
-
-### Physical Prototype
-
-![Physical Prototype](images/physical-prototype.jpg)
-
----
-
 ## Future Improvements
 
 - Add additional sensors for more accurate traffic-density detection.
